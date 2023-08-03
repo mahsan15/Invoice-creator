@@ -1,7 +1,5 @@
 # Invoice Creator - React App
 
-![Invoice Creator](invoice-creator-screenshot.png)
-
 The Invoice Creator is a React-based project that empowers users to create professional invoices with itemized details. You can effortlessly configure quantities, prices, tax rates, and discounts for each item. The app further allows you to conveniently download the invoices as PDF files directly to your device. To achieve this functionality, the project leverages the [jspdf-react](https://www.npmjs.com/package/jspdf-react) library, capturing data from the modal and converting it from canvas to PDF format.
 
 ## Live Demo
