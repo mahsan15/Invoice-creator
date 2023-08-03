@@ -1,0 +1,76 @@
+#curr, #tax, #disc {
+    color: white;
+    font-size: 16px;
+    
+    /* Add any other CSS properties as needed */
+  }
+
+  #butt{
+    font-size: 15px;
+    color: green;
+background-color: white;
+border: 4px solid green;
+  }
+
+  #butt:hover{
+    color: white;
+background-color: green;
+border: 4px solid green;
+
+  }
+
+  th{
+    font-size: 14px;
+  }
+
+  #bill{
+    font-size: 14px;
+  }
+
+  #total{
+    border: 8px solid rgb(102, 206, 102);
+    border-radius: 10px;
+    background-color: rgb(102, 206, 102);
+  }
+
+  #sub, #note{
+    font-size: 15px;
+  }
+
+  #calc{
+    border: 16px solid rgb(236, 235, 235);
+    border-radius: 10px;
+    background-color: rgb(236, 235, 235);
+  }
+
+  .github-button {
+    background-color: #24292e;
+    color: rgb(151, 25, 120);
+    border-radius: 15px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 3px solid rgb(151, 25, 120);
+  }
+  
+  .github-button:hover {
+    background-color: #1c2025;
+  }
+  
+  .github-button:focus {
+    outline: none;
+  }
+  
+  .github-icon {
+    color: #fff;
+    font-size: 1.2rem;
+  }
+
+  #link{
+    color: inherit;
+  text-decoration: none;
+  }
